@@ -1,0 +1,9 @@
+Dataset,Method,mean,std
+bin_clasif,Gradient,0.11,0.024083189
+bin_clasif,Gradient-Newton,0.0964,0.026434826
+bin_clasif,Newton,0.0872,0.027914154
+bin_clasif,XGBoost,0.1092,0.031003226
+digits,Gradient,0.0784,0.00669328
+digits,Gradient-Newton,0.0668,0.011882761
+digits,Newton,0.0608,0.013461055
+digits,XGBoost,0.074,0.00509902
